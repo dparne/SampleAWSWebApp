@@ -1,0 +1,5 @@
+*.properties
+*/.ebextensions/*
+.classpath
+.project
+*/.settings/*
